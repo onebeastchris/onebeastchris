@@ -11,6 +11,7 @@ Fabric mods:
 Geyser Extensions:
 - [MagicMenu](https://github.com/onebeastchris/MagicMenu): A Geyser Extension to run commands with Bedrock edition forms. Fully customizable, with support for placeholders.
 - [PickPack](https://github.com/onebeastchris/PickPack): A Geyser Extension to allow players to choose their own resource packs.
+- [BlockVersion](https://github.com/onebeastchris/BlockVersion): A Geyser Extension to block all but the latest Bedrock version from joining the server.
 
 Plugins:
 - [GeyserPackSync](https://GitHub.com/onebeastchris/GeyserPackSync): A Bungeecord/Velocity plugin to allow Bedrock players via Geyser to have different resource packs per network server.
