@@ -4,9 +4,9 @@ I'm Chris, from Germany, and currently studying.
 In my free time, i like to code - here are some of my projects:
 
 Fabric mods:
-- [visitors](https://github.com/onebeastchris/visitors): A fabric mod allowing non-whitelisted players to check out the server in spectator mode.
-- [Hurricane-Fabric](https://github.com/onebeastchris/Hurricane-Fabric): A fabric port of [GeyserMC's Hurricane](https://github.com/geysermc/hurricane) plugin.
-- [CustomPlayerHeads](https://github.com/onebeastchris/customplayerheads): A fabric mod to get player heads for both Java and Bedrock players.
+- [visitors](https://github.com/onebeastchris/visitors): A Fabric mod allowing non-whitelisted players to check out the server in spectator mode.
+- [Hurricane-Modded](https://github.com/onebeastchris/Hurricane-Modded): A Fabric/NeoForge port of [GeyserMC's Hurricane](https://github.com/geysermc/hurricane) plugin.
+- [CustomPlayerHeads](https://github.com/onebeastchris/customplayerheads): A Fabric mod to get player heads for both Java and Bedrock players.
 
 Geyser Extensions:
 - [MagicMenu](https://github.com/onebeastchris/MagicMenu): A Geyser Extension to run commands with Bedrock edition forms. Fully customizable, with support for placeholders.
