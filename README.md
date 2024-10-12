@@ -11,6 +11,7 @@ Fabric mods:
 Geyser Extensions:
 - [MagicMenu](https://github.com/onebeastchris/MagicMenu): A Geyser Extension to run commands with Bedrock edition forms. Fully customizable, with support for placeholders.
 - [PickPack](https://github.com/onebeastchris/PickPack): A Geyser Extension to allow players to choose their own resource packs.
+- [LuckLink](https://github.com/onebeastchris/LuckLink): A Geyser Extension that allows registering permissions added by Geyser (or other Geyser extensions) on platforms without native permission managers.
 - [BlockVersion](https://github.com/onebeastchris/BlockVersion): A Geyser Extension to block all but the latest Bedrock version from joining the server.
 - [TransferTool](https://github.com/onebeastchris/TransferTool): A Geyser Extension to allow mapping Java transfer packet server destinations to Bedrock/Geyser servers.
 
